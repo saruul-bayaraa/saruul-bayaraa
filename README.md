@@ -1,6 +1,3 @@
 ## Hi there 👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{saruul-bayaraa}/count.svg" alt="Visitor's Count" />
-</div>
+![](https://api.visitorbadge.io/api/VisitorHit?user=saruul-bayaraa&repo=saruul-bayaraa&countColor=%237B1E7A)
