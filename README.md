@@ -1,3 +1,4 @@
-## Hi there 👋
+## Hey there, I'm Saruul
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=saruul-bayaraa&repo=saruul-bayaraa&countColor=%237B1E7A)
+- 👩‍🎓 Currently studying Software Engineering, more particularly Spring based applications and distributed applications
+- ⛵ Current project : [VirVoile PerfPredic](virvoile.org), a web app that allows sailboats amateurs to generate polar diagrams to predict a sailboat's performance
